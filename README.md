@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Grzegorz Banaszak
+- 💻 Junior Frontend Developer
 - 👀 I’m interested in sport, game and good food
-- 🌱 I’m currently learning Javascript
+- 📚 I’m currently learning Javascrip
 
 ### Connect with me:
 
