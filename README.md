@@ -5,7 +5,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://code-with-grzegorz.com) <b>Website
+[![website](./img/globe-light.svg)](https://codegrzegorz.com) <b>Website
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/grzegorz-banaszak/) <b>Linkedin
 
 ### Languages and Tools:
