@@ -10,7 +10,7 @@
 
 ### Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,styledcomponents,react,redux,vue,nodejs,nestjs,firebase,mongodb,figma,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,styledcomponents,react,redux,vue,nodejs,nestjs,firebase,mongodb,figma,git,github,vscode,sql)
 
 <br />
 <br />
