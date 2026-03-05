@@ -1,19 +1,36 @@
-- 👋 Hi, I’m Grzegorz Banaszak
-- 💻 Junior Frontend Developer
-- 👀 I’m interested in sport, game and good food
-- 📚 I’m currently learning Javascript and Typescript
+# 👋 Hi, I'm Grzegorz Banaszak
 
-### Connect with me:
+💻 Junior System Administrator / Infrastructure Enthusiast  
 
-[![website](./img/globe-light.svg)](https://codegrzegorz.com) <b>Website
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/grzegorz-banaszak/) <b>Linkedin
+I’m focused on learning how modern systems work — from Linux servers to cloud infrastructure and containerized environments.
 
-### Languages and Tools:
+Currently interested in:
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,styledcomponents,react,redux,vue,nodejs,nestjs,firebase,mongodb,figma,git,github,vscode,docker,mysql)
+- 🐧 Linux system administration
+- ⚙️ Infrastructure & system management
+- 🐳 Docker and containerization
+- ☁️ Cloud technologies
+- 🌐 Networking fundamentals
+- 🔧 Automation and DevOps tools
 
-<br />
-<br />
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrzegorzBanaszak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I enjoy building lab environments, experimenting with servers and learning how real production systems operate.
+
+---
+
+### 🌐 Connect with me
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/grzegorz-banaszak/) Linkedin
+
+---
+
+### 🛠️ Technologies & Tools
+
+![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,git,github,nginx,mysql,postgres,redis,vscode,azure)
+
+---
+
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrzegorzBanaszak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
