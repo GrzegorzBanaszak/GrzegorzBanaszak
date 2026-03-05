@@ -31,6 +31,8 @@ I enjoy building lab environments, experimenting with servers and learning how r
 
 ### 📊 GitHub Stats
 
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GrzegorzBanaszak&layout=donut)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=GrzegorzBanaszak)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GrzegorzBanaszak)](https://github.com/ashutosh00710/github-readme-activity-graph)
