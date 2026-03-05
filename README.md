@@ -31,6 +31,6 @@ I enjoy building lab environments, experimenting with servers and learning how r
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrzegorzBanaszak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GrzegorzBanaszak&layout=compact)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 
